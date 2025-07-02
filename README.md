@@ -1,2 +1,4 @@
-# Tech--timeline
-Html page showing meenalochani's coding journey in a time line
+# 🕒 Tech Timeline – HTML Project
+
+## 📋 Description
+Tech Timeline is a static webpage that displays important technology milestones in a clean, chronological order. It helps viewers understand the history and evolution
